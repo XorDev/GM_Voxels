@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"shd_edit","order":2,"path":"shaders/shd_edit/shd_edit.yy",},
+    {"name":"shd_gen","order":1,"path":"shaders/shd_gen/shd_gen.yy",},
+    {"name":"snd_break","order":12,"path":"sounds/snd_break/snd_break.yy",},
+    {"name":"snd_place","order":8,"path":"sounds/snd_place/snd_place.yy",},
+  ],
+}
